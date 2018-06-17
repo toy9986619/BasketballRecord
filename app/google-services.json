@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "476746085166",
+    "firebase_url": "https://basketballrecord-cf34a.firebaseio.com",
+    "project_id": "basketballrecord-cf34a",
+    "storage_bucket": "basketballrecord-cf34a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476746085166:android:f164c400dddb1ec2",
+        "android_client_info": {
+          "package_name": "com.example.toy9986619.basketballrecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476746085166-glftdkmshaf5d9s8eh78sg1u3dmbab90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toy9986619.basketballrecord",
+            "certificate_hash": "e6bea11de6d8bf55aba39a1d6c20c482edf5bdc6"
+          }
+        },
+        {
+          "client_id": "476746085166-6dd72c63r5jujdclel2qj3evi0i8invq.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "476746085166-6dd72c63r5jujdclel2qj3evi0i8invq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLnJFLEMIU6W0KC9AhVh-geGQjv1Vk8g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476746085166-6dd72c63r5jujdclel2qj3evi0i8invq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
